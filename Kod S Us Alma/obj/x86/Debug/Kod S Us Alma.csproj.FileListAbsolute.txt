@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Us Alma\Kod S Us Alma\bin\Debug\Kod S Us Alma.exe
+C:\Users\mrt_b\Desktop\Kod S Us Alma\Kod S Us Alma\bin\Debug\Kod S Us Alma.pdb
+C:\Users\mrt_b\Desktop\Kod S Us Alma\Kod S Us Alma\obj\x86\Debug\Kod S Us Alma.exe
+C:\Users\mrt_b\Desktop\Kod S Us Alma\Kod S Us Alma\obj\x86\Debug\Kod S Us Alma.pdb
